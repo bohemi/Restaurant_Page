@@ -1,0 +1,28 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "A restaurant page made with npm and webpack usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohemi/Restaurant_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohemi/Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/bohemi/Restaurant_Page#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.4",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
